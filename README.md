@@ -1,7 +1,7 @@
 # cronometro-online-simple
 Este proyecto web, en términos del front-end, consiste en crear un cronometro en linea, el cual tiene funciones como INICIAR, DETENER Y REINICIAR.
 
-Para ser más precisos, en términos de los paradigmas del diseño web, en este proyecto he implementado tecnologias básicas tales como **HTML (Hypertext Markup Language)**. **CSS** y **JavaSript**. 
+Para ser más precisos, en términos de los paradigmas del diseño web, en este proyecto he implementado tecnologias básicas tales como **HTML (Hypertext Markup Language)**. **CSS** y **JavaScript**. 
 
 **Algunos conceptos al tener en cuenta sobre los lenguajes de programación para front-end:**
 
