@@ -11,7 +11,7 @@ Para ser más precisos, en términos de los paradigmas del diseño web, en este 
 
 *JavaScript:* (JS) es un lenguaje de programación de alto nivel, interpretado y basado en texto que se utiliza principalmente en el desarrollo web para agregar interactividad y dinamismo a las páginas web. Dentro de los paradigmas del desarrollo web, JS nos provee de poderosos frameworks como *Node.js*, *React*, *Vue.js*, *Angular*, entre otras.
 
-**SITIOS DONDE APRENDER LAS SYNTAXIS, FRAMEWORKS Y BIBLIOTECAS:
+**SITIOS DONDE APRENDER LAS SYNTAXIS, FRAMEWORKS Y BIBLIOTECAS:**
  - HTML: https://www.w3schools.com/html/default.asp , https://www.geeksforgeeks.org/html-tutorial/
  - CSS: https://www.w3schools.com/css/default.asp , https://www.geeksforgeeks.org/css-tutorial/?ref=outind
  - JavaScript: https://www.w3schools.com/js/default.asp , https://www.geeksforgeeks.org/javascript/?ref=outind
