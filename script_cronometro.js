@@ -28,13 +28,13 @@ startButton.addEventListener('click', () => {
 });
 
 stopButton.addEventListener('click', () => {
-  clearInterval(timer);
-  isRunning = false;
+    clearInterval(timer);
+    isRunning = false;
 });
 
 resetButton.addEventListener('click', () => {
-  clearInterval(timer);
-  isRunning = false;
-  seconds = 0;
-  timerDisplay.textContent = "00:00:00";
+    clearInterval(timer);
+    isRunning = false;
+    seconds = 0;
+    timerDisplay.textContent = "00:00:00";
 });
